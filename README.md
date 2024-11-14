@@ -1,4 +1,4 @@
-khatam: Reducing the Communication Complexity of Code-Based SNARKs
+**khatam: Reducing the Communication Complexity of Code-Based SNARKs**
 Abstract
 We prove that Basefold(Crypto 2024) is secure in the list decoding regime, within
 the double Johnson bound and with error probability O(n)
